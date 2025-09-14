@@ -107,7 +107,5 @@ git checkout -b feature/AmazingFeature
 
 ## Contact
 
-- Email: mehkadiri@gmail.com
-- Twitter: @mehkadiri
-- Instagram: @meh_kadiri
-- portfolio: https://mehkadiri.me
+- Email: dushyantnagar147@gmail.com
+
